@@ -12,19 +12,12 @@ Backend developer, Mentor, Streamer
 Leading my own project 
 
 ## 1 year leading my own project [OverMoney](https://github.com/nekromant322/OverMoney)
+- Built and mentored Devs&QA in team, fostering a collaborative and results-driven work environment
+- Infrastructure management (VPS, Logs, Metrics, DBs)
+- Description and decomposition of technical tasks for devs
+- Backlog management
+- Architectural solutions
 
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
