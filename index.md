@@ -37,7 +37,7 @@ Development of infrastructure services for [vk.com](vk.com):
 - Memcache
 - Clickhouse
 
-## 1 year at [Alfabank](https://alfabank.ru)
+## 1 year at [Alfabank](https://alfabank.ru) as software engineer
 Development of middleware services for mobile application, features related to personal data update:  
 - Passport update (via Smart Engines)
 - Address update (via DaData)
@@ -53,7 +53,7 @@ Technology stack:
 - Docker, Mesos, Marathon
 - Prometheus, Grafana, Kibana
 
-## 2,5 years at [EPAM](https://epam.com)
+## 2,5 years at [EPAM](https://epam.com) as software engineer
 Development of banking software for issuing credit cards for [Sberbank](https://www.sberbank.ru):
 - AOP library for metrics and audit
 - Layout for printing forms
