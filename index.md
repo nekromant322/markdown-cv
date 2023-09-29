@@ -31,7 +31,7 @@ Development of infrastructure services for [vk.com](vk.com):
 - Code owners tools for huge monorepo 
 - Elimination of technical debt through development of libraries 
 - ColdStart admin panel (load management on site sections in case of crashes of key engines)
-### Technology stack:
+#### Technology stack:
 - PHP, kPHP
 - RPC
 - Memcache
@@ -43,7 +43,8 @@ Development of middleware services for mobile application, features related to p
 - Address update (via DaData)
 - Phone number update
 - Embossing name update
-Technology stack:
+
+#### Technology stack:
 - Kotlin, Java 11 
 - Spring Cloud
 - MongoDB, Hazelcast
@@ -68,7 +69,8 @@ Development of omnichannel middleware for mobile bank transfers for [VTB](https:
 - Orchestration of c2c money transfers
 - Service for scheduled transfers from templates
 - Cache for API's responses
-Technology stack:
+
+#### Technology stack:
 - Java 8, Kotlin
 - Spring (Boot, Security, WebFlux, Data, Actuator)
 - PostgreSQL, Redis
