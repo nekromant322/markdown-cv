@@ -9,16 +9,22 @@ Backend developer, Mentor, Streamer
 
 ## Currently
 
-Leading my own project 
+Leading development on my own project 
 
-## 1 year leading my own project [OverMoney](https://github.com/nekromant322/OverMoney)
+## 1 year at [OverMoney](https://github.com/nekromant322/OverMoney) as Lead
 - Built and mentored Devs&QA in team, fostering a collaborative and results-driven work environment
 - Infrastructure management (VPS, Logs, Metrics, DBs)
 - Description and decomposition of technical tasks for devs
 - Backlog management
 - Architectural solutions
 
-
+#### Technology stack:
+- Java 11
+- Spring Cloud
+- PostgreSQL
+- Maven
+- Prometheus, Grafana, Kibana
+- Nginx
 
 
 
