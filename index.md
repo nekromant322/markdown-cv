@@ -92,8 +92,5 @@ Algorithmic trading, Internet of things, Finances
 
 ### Hobby
 Building backend for my home without any ecosystems
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
