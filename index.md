@@ -1,5 +1,5 @@
 # Anatolii Marandyuk
-Backend developer, Mentor, Streamer
+Backend developer, Mentor, Streamer  
 Kaliningrad
 <div id="webaddress">
 <a href="shamaneeel881@gmail.com">shamaneeel881@gmail.com</a>
